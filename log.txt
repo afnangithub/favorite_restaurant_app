@@ -9,3 +9,8 @@ git push -u origin main
 git remote add origin https://github.com/afnangithub/favorite_restaurant_app.git
 git branch -M main
 git push -u origin main
+
+git add .
+git commit -am "#3 commit"
+git branch -M flutter
+git push -u origin flutter
